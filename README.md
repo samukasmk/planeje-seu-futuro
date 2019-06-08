@@ -1,7 +1,5 @@
-# (APP) Planejamento financeiro
-> Controle suas finanças e planeje seus sonhos
-
-
+# Planeje seu Futuro (App Mobile e WEB)
+Controle suas finanças e planeje seus sonhos através de metas financeiras
 
 ## Abordagem PDCA
 
@@ -32,7 +30,7 @@
 - Orçamentos (com limites por categoria)
 - Sonhos e Metas (com previsão de conclusão)
 
-## MileStones:
+## Mile stones:
 
 ### Fase 1 (Módulos base)
 
